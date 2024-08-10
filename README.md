@@ -7,7 +7,7 @@ This repository contains various projects and implementations focused on Convolu
 ### 1. Pizza vs. Steak Classification
 - **Description:** A binary image classification project using a modified version of the Food101 dataset to distinguish between pizza 🍕 and steak 🥩 images.
 - **Dataset:** [Food101 dataset](https://www.kaggle.com/datasets/dansbecker/food-101), modified using the [Image Data Modification Notebook](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/extras/image_data_modification.ipynb).
-- **Notebook:** `Pizza_vs_Steak_Classification.ipynb`
+- **Notebook:** `Introduction_to_computer_vision_with_tensorflow.ipynb`
 
 ### 2. [Project Name]
 - **Description:** [Brief description of the project]
